@@ -9,10 +9,10 @@ const ContactUs = () => {
       <br />
       <br />
       <div>
-      📞   Phone Number: <a href="tel:+91-8299098719">+91 6360688133</a>
+       Phone Number: <a href="tel:+91-8299098719">+91 6360688133</a>
       <br />
       <br />
-          📧 E-Mail: <a href="mailto : spoortisatenahalli">spoortisatenahalli@gmail.com</a>
+         E-Mail: <a href="mailto : spoortisatenahalli">spoortisatenahalli@gmail.com</a>
       <br /><br />
 
   
